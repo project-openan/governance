@@ -1,0 +1,6 @@
+# Code owners for this repository.
+# The TSC (maintainers-governance team) owns and merges changes to this
+# repository. LF staff are designated as code owners so that
+# organizational and governance changes receive a neutral review
+# before merging.
+* @project-openan/lf_staff
