@@ -6,9 +6,9 @@ This repository contains governance documentation for the [OpenAN](https://opena
 
 | Document | Description |
 |----------|-------------|
-| [GOVERNANCE.md](GOVERNANCE.md) | Project governance structure, TSC composition, roles, and decision-making processes |
 | [OpenAN Technical Charter (PDF)](OpenAN%20Technical%20Charter%2006-22-2026.pdf) | Technical Charter defining the project's scope, IP policy, and relationship with LFN |
-| [MAINTAINERS.md](MAINTAINERS.md) | Current list of project maintainers and committers |
+| [GOVERNANCE.md](https://github.com/project-openan/.github/blob/main/GOVERNANCE.md) | Project governance structure, TSC composition, roles, and decision-making processes |
+| [MAINTAINERS.md](https://github.com/project-openan/.github/blob/main/MAINTAINERS.md) | Project-wide maintainers index; each repository carries its own MAINTAINERS.md |
 
 ## Community Resources
 
