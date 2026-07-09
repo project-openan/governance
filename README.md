@@ -7,12 +7,13 @@ This repository contains governance documentation for the [OpenAN](https://opena
 | Document | Description |
 |----------|-------------|
 | [OpenAN Technical Charter (PDF)](OpenAN%20Technical%20Charter%2006-22-2026.pdf) | Technical Charter defining the project's scope, IP policy, and relationship with LFN |
-| [GOVERNANCE.md](https://github.com/project-openan/.github/blob/main/GOVERNANCE.md) | Project governance structure, TSC composition, roles, and decision-making processes |
-| [MAINTAINERS.md](https://github.com/project-openan/.github/blob/main/MAINTAINERS.md) | Project-wide maintainers index; each repository carries its own MAINTAINERS.md |
+| [GOVERNANCE.md](GOVERNANCE.md) | Project governance structure, TSC composition, roles, and decision-making processes |
+| [MAINTAINERS.md](MAINTAINERS.md) | Project-wide maintainers index and current TSC roster; each repository carries its own MAINTAINERS.md |
 
 ## Community Resources
 
 - **Website:** [openan.dev](https://openan.dev)
+- **Meeting Calendar:** [Community Meeting Calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/openan?view=week) (to request a new meeting, email [support@lfnetworking.org](mailto:support@lfnetworking.org) with the meeting name, its committee, working group, or SIG, the cadence, and the time with time zone)
 - **Mailing Lists:** [lists.openan.dev](https://lists.openan.dev)
 - **Wiki:** [OpenAN Confluence](https://lf-networking.atlassian.net/wiki)
 - **Contributing:** [CONTRIBUTING.md](https://github.com/project-openan/.github/blob/main/CONTRIBUTING.md)
