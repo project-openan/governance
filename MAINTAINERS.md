@@ -21,7 +21,7 @@ The current TSC roster. The startup roster as of project inception is recorded i
 |------|-------------|------|---------------|
 | Yijun Yu | Huawei | TSC Chair | [@amoyuzi](https://github.com/amoyuzi) |
 | Kailai Zhang | China Mobile | TSC Co-Chair | <!-- TBD --> |
-| Bastien Bourgeois | Orange | Voting Member | <!-- TBD --> |
+| Mohammed El Barhichi | Orange | Voting Member | <!-- TBD --> |
 | Boonchoung Tansuthepverawongse | AIS | Voting Member | <!-- TBD --> |
 | Eduardo M Panciera Molanes | Telecom Argentina | Voting Member | [@epancie](https://github.com/epancie) |
 | Ullas Krishnan | Infosys | Voting Member | <!-- TBD --> |
