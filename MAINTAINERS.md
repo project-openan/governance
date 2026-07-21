@@ -20,8 +20,8 @@ The current TSC roster. The startup roster as of project inception is recorded i
 | Name | Organization | Role | GitHub Handle |
 |------|-------------|------|---------------|
 | Yijun Yu | Huawei | TSC Chair | [@amoyuzi](https://github.com/amoyuzi) |
-| Kailai Zhang | China Mobile | TSC Vice Chair | <!-- TBD --> |
-| Bastien Bourgeois | Orange | Voting Member | <!-- TBD --> |
+| Kailai Zhang | China Mobile | TSC Co-Chair | <!-- TBD --> |
+| Mohammed El Barhichi | Orange | Voting Member | <!-- TBD --> |
 | Boonchoung Tansuthepverawongse | AIS | Voting Member | <!-- TBD --> |
 | Eduardo M Panciera Molanes | Telecom Argentina | Voting Member | [@epancie](https://github.com/epancie) |
 | Ullas Krishnan | Infosys | Voting Member | <!-- TBD --> |
@@ -31,6 +31,17 @@ The current TSC roster. The startup roster as of project inception is recorded i
 ## Governance Repositories
 
 The `.github` and `governance` repositories are maintained by the TSC through the `maintainers-governance` team. LF staff serve as the designated reviewers for changes to these repositories, providing a neutral review of organizational and governance changes before merge.
+
+# Maintainers
+
+This file lists the maintainers of this repository. Maintainers have write access and are responsible for reviewing and merging contributions. Changes to this file are made by pull request and reviewed by the existing maintainers.
+
+| Organization | Name | GitHub Handle |
+| ------------ | ---- | ------------- |
+| Huawei  | Yijun Yu | @amoyuzi |
+| China Mobile  | Kailai Zhang | @zhangkl17 |
+| The Linux Foundation  | Casey Cain | @wrathwolf |
+
 
 ## Emeritus Maintainers
 
