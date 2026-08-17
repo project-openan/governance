@@ -26,7 +26,7 @@ The current TSC roster. The startup roster as of project inception is recorded i
 | Eduardo M Panciera Molanes | Telecom Argentina | Voting Member | [@epancie](https://github.com/epancie) |
 | Ullas Krishnan | Infosys | Voting Member | <!-- TBD --> |
 | Xiaobin Shi | ZTE | Voting Member | <!-- TBD --> |
-| Zhiqi Li | AsiaInfo | Voting Member | <!-- TBD --> |
+| Dajiang Du | AsiaInfo | Voting Member | <!-- TBD --> |
 
 ## Governance Repositories
 
